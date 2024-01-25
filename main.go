@@ -10,5 +10,4 @@ func main() {
 	text = "Hello"
 	fmt.Printf("%s %d\n", text, digit)
 
-	var varName bool;
 }
